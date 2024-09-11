@@ -1,0 +1,914 @@
+[
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncGenerator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "OrderRead",
+        "importPath": "src.schemas",
+        "description": "src.schemas",
+        "isExtraImport": true,
+        "detail": "src.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OrderCreate",
+        "importPath": "src.schemas",
+        "description": "src.schemas",
+        "isExtraImport": true,
+        "detail": "src.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OrderService",
+        "importPath": "src.services",
+        "description": "src.services",
+        "isExtraImport": true,
+        "detail": "src.services",
+        "documentation": {}
+    },
+    {
+        "label": "BaseService",
+        "importPath": "src.services",
+        "description": "src.services",
+        "isExtraImport": true,
+        "detail": "src.services",
+        "documentation": {}
+    },
+    {
+        "label": "BaseService",
+        "importPath": "src.services",
+        "description": "src.services",
+        "isExtraImport": true,
+        "detail": "src.services",
+        "documentation": {}
+    },
+    {
+        "label": "order_service_factory",
+        "importPath": "src.dependencies",
+        "description": "src.dependencies",
+        "isExtraImport": true,
+        "detail": "src.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "order_router",
+        "importPath": "src.api.v1",
+        "description": "src.api.v1",
+        "isExtraImport": true,
+        "detail": "src.api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "OrderService",
+        "importPath": "services",
+        "description": "services",
+        "isExtraImport": true,
+        "detail": "services",
+        "documentation": {}
+    },
+    {
+        "label": "OrderRepository",
+        "importPath": "src.repositories",
+        "description": "src.repositories",
+        "isExtraImport": true,
+        "detail": "src.repositories",
+        "documentation": {}
+    },
+    {
+        "label": "BaseError",
+        "importPath": "src.exceptions",
+        "description": "src.exceptions",
+        "isExtraImport": true,
+        "detail": "src.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BaseError",
+        "importPath": "src.exceptions",
+        "description": "src.exceptions",
+        "isExtraImport": true,
+        "detail": "src.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BaseError",
+        "importPath": "src.exceptions",
+        "description": "src.exceptions",
+        "isExtraImport": true,
+        "detail": "src.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "EntityDoesNotExistError",
+        "importPath": "src.exceptions",
+        "description": "src.exceptions",
+        "isExtraImport": true,
+        "detail": "src.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidOperationError",
+        "importPath": "src.exceptions",
+        "description": "src.exceptions",
+        "isExtraImport": true,
+        "detail": "src.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationFailed",
+        "importPath": "src.exceptions",
+        "description": "src.exceptions",
+        "isExtraImport": true,
+        "detail": "src.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidTokenError",
+        "importPath": "src.exceptions",
+        "description": "src.exceptions",
+        "isExtraImport": true,
+        "detail": "src.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceError",
+        "importPath": "src.exceptions",
+        "description": "src.exceptions",
+        "isExtraImport": true,
+        "detail": "src.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "importPath": "models.order",
+        "description": "models.order",
+        "isExtraImport": true,
+        "detail": "models.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderRead",
+        "importPath": "schemas.order",
+        "description": "schemas.order",
+        "isExtraImport": true,
+        "detail": "schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "BigInteger",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "and_",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "asc",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "desc",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "insert",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "settings",
+        "description": "settings",
+        "isExtraImport": true,
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "async_session",
+        "importPath": "settings",
+        "description": "settings",
+        "isExtraImport": true,
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyRepository",
+        "importPath": "src.repositories.sqlalchemy_repository",
+        "description": "src.repositories.sqlalchemy_repository",
+        "isExtraImport": true,
+        "detail": "src.repositories.sqlalchemy_repository",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "importPath": "src.models",
+        "description": "src.models",
+        "isExtraImport": true,
+        "detail": "src.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractRepository",
+        "importPath": "src.repositories.abstract_repository",
+        "description": "src.repositories.abstract_repository",
+        "isExtraImport": true,
+        "detail": "src.repositories.abstract_repository",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractRepository",
+        "importPath": "src.repositories.abstract_repository",
+        "description": "src.repositories.abstract_repository",
+        "isExtraImport": true,
+        "detail": "src.repositories.abstract_repository",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractRepository",
+        "importPath": "src.repositories.abstract_repository",
+        "description": "src.repositories.abstract_repository",
+        "isExtraImport": true,
+        "detail": "src.repositories.abstract_repository",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncMock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "MagicMock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "StaticFiles",
+        "importPath": "fastapi.staticfiles",
+        "description": "fastapi.staticfiles",
+        "isExtraImport": true,
+        "detail": "fastapi.staticfiles",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "routers_list",
+        "importPath": "src.api.routers",
+        "description": "src.api.routers",
+        "isExtraImport": true,
+        "detail": "src.api.routers",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_sessionmaker",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "order_router",
+        "kind": 5,
+        "importPath": "src.api.v1.order",
+        "description": "src.api.v1.order",
+        "peekOfCode": "order_router = APIRouter(\"orders\", prefix=\"/orders\", tags=[\"orders\"])\n@order_router.post(\n    \"/\", \n    response_model=OrderRead\n)\nasync def create_order_view(\n    order: OrderCreate, \n    order_service: Annotated[OrderService, Depends(order_service_factory)]\n):\n    return await order_service.create_entity(order)",
+        "detail": "src.api.v1.order",
+        "documentation": {}
+    },
+    {
+        "label": "routers_list",
+        "kind": 5,
+        "importPath": "src.api.routers",
+        "description": "src.api.routers",
+        "peekOfCode": "routers_list = [\n    order_router\n]",
+        "detail": "src.api.routers",
+        "documentation": {}
+    },
+    {
+        "label": "order_service_factory",
+        "kind": 2,
+        "importPath": "src.dependencies.order",
+        "description": "src.dependencies.order",
+        "peekOfCode": "def order_service_factory() -> OrderService:\n    return OrderService(OrderRepository())",
+        "detail": "src.dependencies.order",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationFailed",
+        "kind": 6,
+        "importPath": "src.exceptions.auth_errors",
+        "description": "src.exceptions.auth_errors",
+        "peekOfCode": "class AuthenticationFailed(BaseError):\n    \"\"\"invalid authentication credentials\"\"\"\n    pass\nclass InvalidTokenError(BaseError):\n    \"\"\"invalid token\"\"\"\n    pass",
+        "detail": "src.exceptions.auth_errors",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidTokenError",
+        "kind": 6,
+        "importPath": "src.exceptions.auth_errors",
+        "description": "src.exceptions.auth_errors",
+        "peekOfCode": "class InvalidTokenError(BaseError):\n    \"\"\"invalid token\"\"\"\n    pass",
+        "detail": "src.exceptions.auth_errors",
+        "documentation": {}
+    },
+    {
+        "label": "BaseError",
+        "kind": 6,
+        "importPath": "src.exceptions.service_errors",
+        "description": "src.exceptions.service_errors",
+        "peekOfCode": "class BaseError(Exception):\n    \"\"\"base exception class\"\"\"\n    def __init__(self, message: str = \"Service is unavailable\"):\n        self.message = message\n        super().__init__(self.message)\nclass ServiceError(BaseError):\n    \"\"\"failures in external services or APIs, like a database or a third-party service\"\"\"\n    pass",
+        "detail": "src.exceptions.service_errors",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceError",
+        "kind": 6,
+        "importPath": "src.exceptions.service_errors",
+        "description": "src.exceptions.service_errors",
+        "peekOfCode": "class ServiceError(BaseError):\n    \"\"\"failures in external services or APIs, like a database or a third-party service\"\"\"\n    pass",
+        "detail": "src.exceptions.service_errors",
+        "documentation": {}
+    },
+    {
+        "label": "EntityDoesNotExistError",
+        "kind": 6,
+        "importPath": "src.exceptions.sql_errors",
+        "description": "src.exceptions.sql_errors",
+        "peekOfCode": "class EntityDoesNotExistError(BaseError):\n    \"\"\"database returns nothing\"\"\"\n    pass\nclass EntityAlreadyExistsError(BaseError):\n    \"\"\"conflict detected, like trying to create a resource that already exists\"\"\"\n    pass\nclass InvalidOperationError(BaseError):\n    \"\"\"invalid operations like trying to delete a non-existing entity, etc.\"\"\"\n    pass",
+        "detail": "src.exceptions.sql_errors",
+        "documentation": {}
+    },
+    {
+        "label": "EntityAlreadyExistsError",
+        "kind": 6,
+        "importPath": "src.exceptions.sql_errors",
+        "description": "src.exceptions.sql_errors",
+        "peekOfCode": "class EntityAlreadyExistsError(BaseError):\n    \"\"\"conflict detected, like trying to create a resource that already exists\"\"\"\n    pass\nclass InvalidOperationError(BaseError):\n    \"\"\"invalid operations like trying to delete a non-existing entity, etc.\"\"\"\n    pass",
+        "detail": "src.exceptions.sql_errors",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidOperationError",
+        "kind": 6,
+        "importPath": "src.exceptions.sql_errors",
+        "description": "src.exceptions.sql_errors",
+        "peekOfCode": "class InvalidOperationError(BaseError):\n    \"\"\"invalid operations like trying to delete a non-existing entity, etc.\"\"\"\n    pass",
+        "detail": "src.exceptions.sql_errors",
+        "documentation": {}
+    },
+    {
+        "label": "order_mapper",
+        "kind": 2,
+        "importPath": "src.mapper.order",
+        "description": "src.mapper.order",
+        "peekOfCode": "def order_mapper(order: Order) -> OrderRead:\n    return OrderRead(\n        id=order.id,\n        name=order.name,\n        price=order.price,\n        created_at=order.created_at\n    )",
+        "detail": "src.mapper.order",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "kind": 6,
+        "importPath": "src.models.order",
+        "description": "src.models.order",
+        "peekOfCode": "class Order(Base):\n    __tablename__ = \"orders\"\n    id = Column(BigInteger, primary_key=True)\n    name = Column(String, nullable=False) \n    price = Column(Integer, nullable=False)\n    created_at = Column(DateTime, nullable=False, default=datetime.now)",
+        "detail": "src.models.order",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractRepository",
+        "kind": 6,
+        "importPath": "src.repositories.abstract_repository",
+        "description": "src.repositories.abstract_repository",
+        "peekOfCode": "class AbstractRepository(ABC):\n    @abstractmethod\n    async def add_one(self, data):\n        raise NotImplementedError\n    @abstractmethod\n    async def get_all(self, filters):\n        raise NotImplementedError\n    @abstractmethod\n    async def get_all_in(self, **in_filters):\n        raise NotImplementedError",
+        "detail": "src.repositories.abstract_repository",
+        "documentation": {}
+    },
+    {
+        "label": "OrderRepository",
+        "kind": 6,
+        "importPath": "src.repositories.order_repository",
+        "description": "src.repositories.order_repository",
+        "peekOfCode": "class OrderRepository(SQLAlchemyRepository):\n    model = Order",
+        "detail": "src.repositories.order_repository",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyRepository",
+        "kind": 6,
+        "importPath": "src.repositories.sqlalchemy_repository",
+        "description": "src.repositories.sqlalchemy_repository",
+        "peekOfCode": "class SQLAlchemyRepository(AbstractRepository):\n    model = None\n    async def add_one(self, data) -> int:\n        async with async_session() as session:\n            stmt = insert(self.model).values(**data).returning(self.model.id)\n            res = await session.execute(stmt)\n            new_id = res.scalar_one()\n            await session.commit()\n            return new_id\n    async def get_all(",
+        "detail": "src.repositories.sqlalchemy_repository",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "kind": 6,
+        "importPath": "src.schemas.order",
+        "description": "src.schemas.order",
+        "peekOfCode": "class Order(BaseModel):\n    name: str\n    price: int\nclass OrderRead(Order):\n    id: int\n    created_at: datetime\nclass OrderCreate(Order):\n    pass\nclass OrderUpdate(Order):\n    pass",
+        "detail": "src.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderRead",
+        "kind": 6,
+        "importPath": "src.schemas.order",
+        "description": "src.schemas.order",
+        "peekOfCode": "class OrderRead(Order):\n    id: int\n    created_at: datetime\nclass OrderCreate(Order):\n    pass\nclass OrderUpdate(Order):\n    pass",
+        "detail": "src.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderCreate",
+        "kind": 6,
+        "importPath": "src.schemas.order",
+        "description": "src.schemas.order",
+        "peekOfCode": "class OrderCreate(Order):\n    pass\nclass OrderUpdate(Order):\n    pass",
+        "detail": "src.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderUpdate",
+        "kind": 6,
+        "importPath": "src.schemas.order",
+        "description": "src.schemas.order",
+        "peekOfCode": "class OrderUpdate(Order):\n    pass",
+        "detail": "src.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "BaseService",
+        "kind": 6,
+        "importPath": "src.services.base",
+        "description": "src.services.base",
+        "peekOfCode": "class BaseService:\n    def __init__(self, base_repo: AbstractRepository):\n        self.base_repo: AbstractRepository = base_repo\n    async def create_entity(self, entity):\n        if isinstance(entity, BaseModel):\n            entity = entity.model_dump()\n        entity_id = await self.base_repo.add_one(data=entity)\n        if entity_id:\n            full_res = await self.get_entity(id=entity_id) \n            return full_res",
+        "detail": "src.services.base",
+        "documentation": {}
+    },
+    {
+        "label": "OrderService",
+        "kind": 6,
+        "importPath": "src.services.order",
+        "description": "src.services.order",
+        "peekOfCode": "class OrderService(BaseService):\n    pass",
+        "detail": "src.services.order",
+        "documentation": {}
+    },
+    {
+        "label": "EntityModel",
+        "kind": 6,
+        "importPath": "src.services.tests",
+        "description": "src.services.tests",
+        "peekOfCode": "class EntityModel(BaseModel):\n    id: int\n    name: str\ndef mapper(idk):\n    return EntityModel(\n        id=idk.id, \n        name=idk.name\n    )\n@pytest.fixture\ndef mock_repo():",
+        "detail": "src.services.tests",
+        "documentation": {}
+    },
+    {
+        "label": "mapper",
+        "kind": 2,
+        "importPath": "src.services.tests",
+        "description": "src.services.tests",
+        "peekOfCode": "def mapper(idk):\n    return EntityModel(\n        id=idk.id, \n        name=idk.name\n    )\n@pytest.fixture\ndef mock_repo():\n    repo = AsyncMock(spec=AbstractRepository)\n    return repo\n@pytest.fixture",
+        "detail": "src.services.tests",
+        "documentation": {}
+    },
+    {
+        "label": "mock_repo",
+        "kind": 2,
+        "importPath": "src.services.tests",
+        "description": "src.services.tests",
+        "peekOfCode": "def mock_repo():\n    repo = AsyncMock(spec=AbstractRepository)\n    return repo\n@pytest.fixture\ndef base_service(mock_repo):\n    return BaseService(base_repo=mock_repo)\n@pytest.mark.asyncio\nasync def test_create_entity(base_service, mock_repo):\n    entity = EntityModel(id=1, name=\"Test Entity\")\n    mock_repo.add_one.return_value = 1",
+        "detail": "src.services.tests",
+        "documentation": {}
+    },
+    {
+        "label": "base_service",
+        "kind": 2,
+        "importPath": "src.services.tests",
+        "description": "src.services.tests",
+        "peekOfCode": "def base_service(mock_repo):\n    return BaseService(base_repo=mock_repo)\n@pytest.mark.asyncio\nasync def test_create_entity(base_service, mock_repo):\n    entity = EntityModel(id=1, name=\"Test Entity\")\n    mock_repo.add_one.return_value = 1\n    mock_repo.get_one.return_value = entity\n    result = await base_service.create_entity(entity)\n    assert mapper(result) == entity\n    mock_repo.add_one.assert_called_once_with(data=entity.model_dump())",
+        "detail": "src.services.tests",
+        "documentation": {}
+    },
+    {
+        "label": "hello",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def hello():\n    return {'Details': 'Add /docs'}\nfor router in routers_list:\n    app.include_router(router, prefix='/api')\ndef create_exception_handler(\n    status_code: int, initial_detail: str\n) -> Callable[[Request, BaseError], JSONResponse]:\n    \"\"\"Create an exception handler for a specific exception.\n    Args:\n        status_code (int): code that will be returned in the response.",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "create_exception_handler",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def create_exception_handler(\n    status_code: int, initial_detail: str\n) -> Callable[[Request, BaseError], JSONResponse]:\n    \"\"\"Create an exception handler for a specific exception.\n    Args:\n        status_code (int): code that will be returned in the response.\n        initial_detail (str): detail message that will be returned in the response.\n    Returns:\n        Callable[[Request, BaseError], JSONResponse]: exception handler.\n    \"\"\"",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI()\napp.mount(\"/media\", StaticFiles(directory=\"media\"), name=\"media\")\n@app.get(\"/\")\ndef hello():\n    return {'Details': 'Add /docs'}\nfor router in routers_list:\n    app.include_router(router, prefix='/api')\ndef create_exception_handler(\n    status_code: int, initial_detail: str\n) -> Callable[[Request, BaseError], JSONResponse]:",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "DB_HOST",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "DB_HOST = os.environ.get(\"DB_HOST\")\nDB_PORT = os.environ.get(\"DB_PORT\")\nDB_NAME = os.environ.get(\"DB_NAME\")\nDB_USER = os.environ.get(\"DB_USER\")\nDB_PASS = os.environ.get(\"DB_PASS\")\nDATABASE_URL = f\"postgresql+asyncpg://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\nBase = declarative_base()\nmetadata = Base.metadata\nengine = create_async_engine(DATABASE_URL, pool_size=4)\nasync_session = async_sessionmaker(engine, expire_on_commit=False)",
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PORT",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "DB_PORT = os.environ.get(\"DB_PORT\")\nDB_NAME = os.environ.get(\"DB_NAME\")\nDB_USER = os.environ.get(\"DB_USER\")\nDB_PASS = os.environ.get(\"DB_PASS\")\nDATABASE_URL = f\"postgresql+asyncpg://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\nBase = declarative_base()\nmetadata = Base.metadata\nengine = create_async_engine(DATABASE_URL, pool_size=4)\nasync_session = async_sessionmaker(engine, expire_on_commit=False)\nasync def get_async_session() -> AsyncGenerator[AsyncSession, None]:",
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "DB_NAME = os.environ.get(\"DB_NAME\")\nDB_USER = os.environ.get(\"DB_USER\")\nDB_PASS = os.environ.get(\"DB_PASS\")\nDATABASE_URL = f\"postgresql+asyncpg://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\nBase = declarative_base()\nmetadata = Base.metadata\nengine = create_async_engine(DATABASE_URL, pool_size=4)\nasync_session = async_sessionmaker(engine, expire_on_commit=False)\nasync def get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session() as session:",
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "DB_USER",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "DB_USER = os.environ.get(\"DB_USER\")\nDB_PASS = os.environ.get(\"DB_PASS\")\nDATABASE_URL = f\"postgresql+asyncpg://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\nBase = declarative_base()\nmetadata = Base.metadata\nengine = create_async_engine(DATABASE_URL, pool_size=4)\nasync_session = async_sessionmaker(engine, expire_on_commit=False)\nasync def get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session() as session:\n        yield session",
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PASS",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "DB_PASS = os.environ.get(\"DB_PASS\")\nDATABASE_URL = f\"postgresql+asyncpg://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\nBase = declarative_base()\nmetadata = Base.metadata\nengine = create_async_engine(DATABASE_URL, pool_size=4)\nasync_session = async_sessionmaker(engine, expire_on_commit=False)\nasync def get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session() as session:\n        yield session",
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "DATABASE_URL = f\"postgresql+asyncpg://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\nBase = declarative_base()\nmetadata = Base.metadata\nengine = create_async_engine(DATABASE_URL, pool_size=4)\nasync_session = async_sessionmaker(engine, expire_on_commit=False)\nasync def get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session() as session:\n        yield session",
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "Base = declarative_base()\nmetadata = Base.metadata\nengine = create_async_engine(DATABASE_URL, pool_size=4)\nasync_session = async_sessionmaker(engine, expire_on_commit=False)\nasync def get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session() as session:\n        yield session",
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "metadata",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "metadata = Base.metadata\nengine = create_async_engine(DATABASE_URL, pool_size=4)\nasync_session = async_sessionmaker(engine, expire_on_commit=False)\nasync def get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session() as session:\n        yield session",
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "engine = create_async_engine(DATABASE_URL, pool_size=4)\nasync_session = async_sessionmaker(engine, expire_on_commit=False)\nasync def get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session() as session:\n        yield session",
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "async_session",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "async_session = async_sessionmaker(engine, expire_on_commit=False)\nasync def get_async_session() -> AsyncGenerator[AsyncSession, None]:\n    async with async_session() as session:\n        yield session",
+        "detail": "settings",
+        "documentation": {}
+    }
+]
